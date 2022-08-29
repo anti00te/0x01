@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anti00te
-- 👀 I’m interested in threat intel and vulns research.
+- 👀 I’m interested in threat intel, hunting and vulns research.
 - 🌱 I’m currently learning hunting cyber criminals.
 - 💞️ I’m looking to collaborate on ......
 - 📫 How to reach me ...no, I'll reach you!
